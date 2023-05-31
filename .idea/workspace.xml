@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4182744e-3085-4d85-9ec3-1415d7d459b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Advice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Hourspent Content Wr/Desktop/Pp/jsProject",
+    "last_opened_file_path": "C:/Users/Hourspent Content Wr/Desktop/R-json",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -103,7 +106,8 @@
       <workItem from="1685086270284" duration="2887000" />
       <workItem from="1685096917287" duration="1084000" />
       <workItem from="1685383951171" duration="9281000" />
-      <workItem from="1685442660279" duration="16082000" />
+      <workItem from="1685442660279" duration="20402000" />
+      <workItem from="1685534369635" duration="2585000" />
     </task>
     <servers />
   </component>
